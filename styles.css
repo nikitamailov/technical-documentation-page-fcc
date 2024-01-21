@@ -1,4 +1,4 @@
-ï»¿html {
+ÿþï»¿html {
     font-size: 16px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -60,7 +60,7 @@ main {
     box-shadow: 0 0 16px 3px #452121;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 500px{
     body {
         display: flex;
         flex-direction: column;
@@ -116,7 +116,7 @@ main {
     }
 }
 
-@media (prefers-reduced-motion: no-preference) {
+@media (prefers-reduced-motion: no-preference{
     * {
         scroll-behavior: smooth;
     }
@@ -180,7 +180,7 @@ pre {
     padding: 2px;
 }
 
-code:not(body pre code) {
+code:not(body pre code{
     border: 1px solid #1a1a1a;
     background-color: #452121;
     border-radius: 4px;
